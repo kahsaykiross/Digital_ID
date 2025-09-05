@@ -1,0 +1,1 @@
+Integration & APIs: REST/GraphQL APIs for third-party services; SDKs for mobile/web platforms.

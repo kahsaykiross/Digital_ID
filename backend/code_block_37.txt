@@ -1,0 +1,1 @@
+Navigator.pushReplacement( context, MaterialPageRoute(builder: (_) => FingerprintAuthScreen(onAuthenticated: () { Navigator.pushReplacement(context, MaterialPageRoute(builder: (_) => FaceCaptureScreen())); })), );

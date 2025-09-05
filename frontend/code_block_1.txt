@@ -1,0 +1,1 @@
+Frontend: React, Angular, or Vue for web apps; Flutter, React Native, or Swift/Kotlin for mobile apps

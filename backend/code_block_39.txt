@@ -1,0 +1,1 @@
+await authProvider.saveToken(token, userId);

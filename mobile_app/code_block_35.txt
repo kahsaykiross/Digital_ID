@@ -1,0 +1,1 @@
+import 'package:tflite_flutter/tflite_flutter.dart'; Future<bool> checkLiveness(File imageFile) async { // Load TFLite model and run inference on imageFile // Return true if liveness detected, else false }

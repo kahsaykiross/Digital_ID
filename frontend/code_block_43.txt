@@ -1,0 +1,1 @@
+import React from 'react'; import UserDetail from './UserDetail'; const UserList = ({ users, token }) => { return ( <div> <h3>Registered Users</h3> {users.map(user => ( <UserDetail key={user.id} user={user} token={token} /> ))} </div> ); }; export default UserList;

@@ -1,0 +1,27 @@
+name: digital_id_app
+description: A Flutter app for Digital ID enrollment and verification.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  flutter_secure_storage: ^8.0.0
+  image_picker: ^0.8.7
+  provider: ^6.0.5
+  local_auth: ^2.1.4
+  camera: ^1.5.0
+  tflite_flutter: ^0.10.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
